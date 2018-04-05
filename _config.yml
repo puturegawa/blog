@@ -1,0 +1,19 @@
+# Site settings
+title: "willian"
+bye_message: "Thx!"
+baseurl: "/blog/"
+url: "https://willian.github.io"
+disqus: puturegawa
+
+# Header settings
+nick: "willian"
+mail:
+    domain: "senada"
+    ext: "id"
+source_code:
+    server: "github.com"
+    nick: "gjuniioor"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
